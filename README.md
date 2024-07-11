@@ -20,7 +20,7 @@ To run the Node.js application using Docker, follow these steps:
     ```docker
     docker build -t node-docker .
 
-    ```docker
+    ```
 
 4. Once the image is built, start the Docker container by executing the following command:
 
